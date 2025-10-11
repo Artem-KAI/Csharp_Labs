@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Artem\\source\\repos\\Lab_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8193D8-B708-4419-918A-BDC070B19C09}|UniversityBrain\\UniversityBrain.csproj|c:\\users\\artem\\source\\repos\\lab_1\\universitybrain\\associations\\recordbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8193D8-B708-4419-918A-BDC070B19C09}|UniversityBrain\\UniversityBrain.csproj|solutionrelative:universitybrain\\associations\\recordbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E2E06F-8E51-4081-BA2F-A509E155758E}|UniversityIO\\UniversityIO.csproj|c:\\users\\artem\\source\\repos\\lab_1\\universityio\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E2E06F-8E51-4081-BA2F-A509E155758E}|UniversityIO\\UniversityIO.csproj|solutionrelative:universityio\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E2E06F-8E51-4081-BA2F-A509E155758E}|UniversityIO\\UniversityIO.csproj|c:\\users\\artem\\source\\repos\\lab_1\\universityio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E2E06F-8E51-4081-BA2F-A509E155758E}|UniversityIO\\UniversityIO.csproj|solutionrelative:universityio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E2E06F-8E51-4081-BA2F-A509E155758E}|UniversityIO\\UniversityIO.csproj|c:\\users\\artem\\source\\repos\\lab_1\\universityio\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E2E06F-8E51-4081-BA2F-A509E155758E}|UniversityIO\\UniversityIO.csproj|solutionrelative:universityio\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E2E06F-8E51-4081-BA2F-A509E155758E}|UniversityIO\\UniversityIO.csproj|c:\\users\\artem\\source\\repos\\lab_1\\universityio\\services\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E2E06F-8E51-4081-BA2F-A509E155758E}|UniversityIO\\UniversityIO.csproj|solutionrelative:universityio\\services\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E2E06F-8E51-4081-BA2F-A509E155758E}|UniversityIO\\UniversityIO.csproj|c:\\users\\artem\\source\\repos\\lab_1\\universityio\\services\\fileservices\\ifileservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E2E06F-8E51-4081-BA2F-A509E155758E}|UniversityIO\\UniversityIO.csproj|solutionrelative:universityio\\services\\fileservices\\ifileservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E2E06F-8E51-4081-BA2F-A509E155758E}|UniversityIO\\UniversityIO.csproj|c:\\users\\artem\\source\\repos\\lab_1\\universityio\\services\\fileservices\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E2E06F-8E51-4081-BA2F-A509E155758E}|UniversityIO\\UniversityIO.csproj|solutionrelative:universityio\\services\\fileservices\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8193D8-B708-4419-918A-BDC070B19C09}|UniversityBrain\\UniversityBrain.csproj|c:\\users\\artem\\source\\repos\\lab_1\\universitybrain\\entities\\workers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8193D8-B708-4419-918A-BDC070B19C09}|UniversityBrain\\UniversityBrain.csproj|solutionrelative:universitybrain\\entities\\workers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8193D8-B708-4419-918A-BDC070B19C09}|UniversityBrain\\UniversityBrain.csproj|c:\\users\\artem\\source\\repos\\lab_1\\universitybrain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8193D8-B708-4419-918A-BDC070B19C09}|UniversityBrain\\UniversityBrain.csproj|solutionrelative:universitybrain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8193D8-B708-4419-918A-BDC070B19C09}|UniversityBrain\\UniversityBrain.csproj|c:\\users\\artem\\source\\repos\\lab_1\\universitybrain\\base\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8193D8-B708-4419-918A-BDC070B19C09}|UniversityBrain\\UniversityBrain.csproj|solutionrelative:universitybrain\\base\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8193D8-B708-4419-918A-BDC070B19C09}|UniversityBrain\\UniversityBrain.csproj|c:\\users\\artem\\source\\repos\\lab_1\\universitybrain\\base\\ichessplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8193D8-B708-4419-918A-BDC070B19C09}|UniversityBrain\\UniversityBrain.csproj|solutionrelative:universitybrain\\base\\ichessplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B8193D8-B708-4419-918A-BDC070B19C09}|UniversityBrain\\UniversityBrain.csproj|c:\\users\\artem\\source\\repos\\lab_1\\universitybrain\\associations\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B8193D8-B708-4419-918A-BDC070B19C09}|UniversityBrain\\UniversityBrain.csproj|solutionrelative:universitybrain\\associations\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\source\\repos\\Lab_1\\UniversityIO\\Services\\FileServices\\FileService.cs",
+              "RelativeDocumentMoniker": "UniversityIO\\Services\\FileServices\\FileService.cs",
+              "ToolTip": "C:\\Users\\Artem\\source\\repos\\Lab_1\\UniversityIO\\Services\\FileServices\\FileService.cs",
+              "RelativeToolTip": "UniversityIO\\Services\\FileServices\\FileService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:18:59.458Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\source\\repos\\Lab_1\\UniversityIO\\Services\\Service.cs",
+              "RelativeDocumentMoniker": "UniversityIO\\Services\\Service.cs",
+              "ToolTip": "C:\\Users\\Artem\\source\\repos\\Lab_1\\UniversityIO\\Services\\Service.cs",
+              "RelativeToolTip": "UniversityIO\\Services\\Service.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T17:26:52.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\source\\repos\\Lab_1\\UniversityBrain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "UniversityBrain\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\Artem\\source\\repos\\Lab_1\\UniversityBrain\\Entities\\Student.cs",
+              "RelativeToolTip": "UniversityBrain\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:51:43.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Workers.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\source\\repos\\Lab_1\\UniversityBrain\\Entities\\Workers.cs",
+              "RelativeDocumentMoniker": "UniversityBrain\\Entities\\Workers.cs",
+              "ToolTip": "C:\\Users\\Artem\\source\\repos\\Lab_1\\UniversityBrain\\Entities\\Workers.cs",
+              "RelativeToolTip": "UniversityBrain\\Entities\\Workers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:02:29.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Parser.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\source\\repos\\Lab_1\\UniversityIO\\Services\\Parser.cs",
+              "RelativeDocumentMoniker": "UniversityIO\\Services\\Parser.cs",
+              "ToolTip": "C:\\Users\\Artem\\source\\repos\\Lab_1\\UniversityIO\\Services\\Parser.cs",
+              "RelativeToolTip": "UniversityIO\\Services\\Parser.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:42:31.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IChessplayer.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\source\\repos\\Lab_1\\UniversityBrain\\Base\\IChessplayer.cs",
+              "RelativeDocumentMoniker": "UniversityBrain\\Base\\IChessplayer.cs",
+              "ToolTip": "C:\\Users\\Artem\\source\\repos\\Lab_1\\UniversityBrain\\Base\\IChessplayer.cs",
+              "RelativeToolTip": "UniversityBrain\\Base\\IChessplayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:08:03.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\source\\repos\\Lab_1\\UniversityBrain\\Base\\Person.cs",
+              "RelativeDocumentMoniker": "UniversityBrain\\Base\\Person.cs",
+              "ToolTip": "C:\\Users\\Artem\\source\\repos\\Lab_1\\UniversityBrain\\Base\\Person.cs",
+              "RelativeToolTip": "UniversityBrain\\Base\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:08:05.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\source\\repos\\Lab_1\\UniversityIO\\ConsoleMenu.cs",
+              "RelativeDocumentMoniker": "UniversityIO\\ConsoleMenu.cs",
+              "ToolTip": "C:\\Users\\Artem\\source\\repos\\Lab_1\\UniversityIO\\ConsoleMenu.cs",
+              "RelativeToolTip": "UniversityIO\\ConsoleMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:19:56.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\source\\repos\\Lab_1\\UniversityIO\\Program.cs",
+              "RelativeDocumentMoniker": "UniversityIO\\Program.cs",
+              "ToolTip": "C:\\Users\\Artem\\source\\repos\\Lab_1\\UniversityIO\\Program.cs",
+              "RelativeToolTip": "UniversityIO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:36:26.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecordBook.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\source\\repos\\Lab_1\\UniversityBrain\\Associations\\RecordBook.cs",
+              "RelativeDocumentMoniker": "UniversityBrain\\Associations\\RecordBook.cs",
+              "ToolTip": "C:\\Users\\Artem\\source\\repos\\Lab_1\\UniversityBrain\\Associations\\RecordBook.cs",
+              "RelativeToolTip": "UniversityBrain\\Associations\\RecordBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T21:24:45.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFileServise.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\source\\repos\\Lab_1\\UniversityIO\\Services\\FileServices\\IFileServise.cs",
+              "RelativeDocumentMoniker": "UniversityIO\\Services\\FileServices\\IFileServise.cs",
+              "ToolTip": "C:\\Users\\Artem\\source\\repos\\Lab_1\\UniversityIO\\Services\\FileServices\\IFileServise.cs",
+              "RelativeToolTip": "UniversityIO\\Services\\FileServices\\IFileServise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:19:01.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\source\\repos\\Lab_1\\UniversityBrain\\Associations\\Department.cs",
+              "RelativeDocumentMoniker": "UniversityBrain\\Associations\\Department.cs",
+              "ToolTip": "C:\\Users\\Artem\\source\\repos\\Lab_1\\UniversityBrain\\Associations\\Department.cs",
+              "RelativeToolTip": "UniversityBrain\\Associations\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T22:09:14.087Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
