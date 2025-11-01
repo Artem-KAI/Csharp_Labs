@@ -1,49 +1,45 @@
-﻿using System.Collections.Generic;
-using System.Linq;
+﻿using BLL.Base;
+using BLL.Mappers;
+using BLL.Models;
+
 using DAL;
+using DAL.Base;
 using DAL.Entities;
-using BLL.Exceptions;
+
 
 namespace BLL
 {
     public class EntityService
     {
-        private readonly EntityContext _context;
-        private List<Student> _students;
+        private readonly EntityContext<Person> _context;
 
-        public EntityService(EntityContext context)
+        public EntityService(EntityContext<Person> context)
         {
             _context = context;
-            _students = new List<Student>();
         }
 
-        public List<Student> LoadStudents(string filePath)
+        public void SavePeople(string filePath, List<PersonModel> people)
         {
-            _students = _context.Load(filePath); // _students – internal collection, внутрішня колекція
-            return _students;
+            if (people == null) throw new ArgumentNullException(nameof(people));
+
+            var entities = people.Select(PersonMapper.ToEntity).ToList();
+            _context.Save(filePath, entities);
         }
 
-        public void SaveStudents(string path)
+        public List<PersonModel> LoadPeople(string filePath)
         {
-            _context.Save(path, _students);
+            var entities = _context.Load(filePath);
+            return entities.Select(PersonMapper.ToModel).ToList();
         }
 
-        public void AddStudent(Student s)
+        public List<StudentModel> GetUkrainianThirdCourseStudents(string filePath)
         {
-            _students.Add(s);
-        }
-
-        public List<Student> GetUkrainianThirdCourseStudents()
-        {
-            var list = _students.Where(s => s.Course == 3 && s.Country.ToLower() == "ukraine").ToList();
-            if (list.Count == 0)
-                throw new StudentNotFoundException("There are no students from 3 course from Ukraine!");
-            return list;
-        }
-
-        public int CountUkrainianThirdCourseStudents()
-        {
-            return _students.Count(s => s.Course == 3 && s.Country.ToLower() == "ukraine");
+            var all = LoadPeople(filePath);
+            return all
+                .OfType<StudentModel>()
+                .Where(s => s.Country == "Ukraine" && s.Course == 3)
+                .ToList();
         }
     }
 }
+

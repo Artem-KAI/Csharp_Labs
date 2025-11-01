@@ -1,11 +1,11 @@
-﻿using System;
+﻿using DAL.Base;
+using System;
 
 namespace DAL.Entities
 {
-    [Serializable] // for binaryformatter
-    public class Student
+    [Serializable]
+    public class Student : Person
     {
-        public string LastName { get; set; }
         public int Course { get; set; }
         public string StudentCard { get; set; }
         public double AverageGrade { get; set; }
@@ -14,10 +14,10 @@ namespace DAL.Entities
 
         public Student() { }
 
-        public Student(string lastName, int course, string studentCard, 
-                double averageGrade, string country, string recordBookNumber)
+        public Student(string lastName, int course, string studentCard,
+                       double averageGrade, string country, string recordBookNumber)
+            : base(lastName)
         {
-            LastName = lastName;
             Course = course;
             StudentCard = studentCard;
             AverageGrade = averageGrade;
@@ -25,10 +25,11 @@ namespace DAL.Entities
             RecordBookNumber = recordBookNumber;
         }
 
-        public override string ToString()
+        public override string GetInfo()
         {
             return $"{LastName}, {Course} course, {Country}, avg score: {AverageGrade}";
         }
     }
 }
+
 
